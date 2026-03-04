@@ -8,4 +8,4 @@ Il s'agit d'un projet d'exemple pour apprendre à utiliser Git et Github.
 1. Clonez ce dépot : 
 ```bash
 git clone https://github.com/user/meu-projeto.git
-
+2. 
